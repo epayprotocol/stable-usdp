@@ -50,4 +50,4 @@ SPDX license: MIT, as declared in the source header of [USDP.sol](USDP.sol).
 
 - This repository and its documentation are provided for technical information about the smart contract codebase and do not constitute financial, legal, or investment advice.
 - Operational reserves, audits, and off-chain assurances are managed by E-Pay and its external partners and are outside the scope of the core smart contract unless explicitly implemented in code.# stable-usdp
-# stable-usdp
+
